@@ -16,7 +16,7 @@ _Note: `shotgun` only works on Linux and Mac OS X. If you're not using a Linux V
 
 ## Setup
 
-Make sure you run `bundle install` to install the gems in our `Gemfile`. If your operating system is OSX El Capitan and you have an issue installing `EventMachine`, run the following command: `gem install eventmachine -- --with-cppflags=-I/usr/local/opt/openssl/include`.
+Make sure you run `bundle install` to install the gems in our `Gemfile`. If your operating system is OSX El Capitan and you have an issue installing `EventMachine`, run the following command: `gem install eventmachine -- --with-cppflags=-I/usr/local/opt/openssl/include`./
 
 ## Why Shotgun
 
